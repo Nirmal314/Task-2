@@ -1,6 +1,9 @@
 .card {
   width: 100%;
 }
+body {
+  overflow-x: hidden;
+}
 .price-card-2 {
   margin-top: 2rem;
 }
