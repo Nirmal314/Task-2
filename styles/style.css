@@ -378,6 +378,10 @@ nav {
   margin-top: 3.25rem;
   margin-bottom: 10px;
 }
+.price-type-custom {
+  margin-top: 1.4rem;
+  margin-bottom: 40px;
+}
 .price-description {
   margin-bottom: 5rem;
 }
